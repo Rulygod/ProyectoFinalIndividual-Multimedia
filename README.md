@@ -1,0 +1,3 @@
+# ProyectoFinalIndividual-Multimedia
+# Para los incisos a y b, descargar el rar y descomprimirlo, posterior a eso desde visual studio abrir los proyectos, y luego se podra ejecutar el proyecto.
+# para el cover de la vaca lola, simplemente descargar el rar, descomprimirlo, y abrirlo con visual studio code, desde el cual se puede abrir usando LIVE SERVER, se lo ejecuta con eso y se podra ver en el navegador la animacion junto con la musica y la clonacion de voz 
